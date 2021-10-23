@@ -1,0 +1,4 @@
+#total game level count
+levelCount=2
+#game current level
+currLevel=2
